@@ -1,9 +1,7 @@
-<h1>Sistema de cadastro de jogos</h1>
+<h1>Primeira esperiência com git e git hub</h1>
 
 > status do projeto: Em desenvolvimento
 
-Para rodar esse projeto na sua máquina, por favor digite:
-
 ```
-node app.js
+Aprendendo a usar o git e git hub com o curso da Alura
 ```
